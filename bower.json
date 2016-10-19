@@ -1,0 +1,11 @@
+{
+  "name": "hourses",
+  "authors": [
+    "Sergey"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
